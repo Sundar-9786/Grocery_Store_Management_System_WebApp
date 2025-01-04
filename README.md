@@ -12,4 +12,8 @@ Download mysql for windows: https://dev.mysql.com/downloads/installer/
 
 `pip install mysql-connector-python`
 
-![bg](https://github.com/user-attachments/assets/c70a1c4d-cffd-4456-9698-e52441b5b20e)
+Home Page
+![Home Page](https://github.com/user-attachments/assets/3a727e2b-5d75-4641-8589-cee12e2488cc)
+
+Products Page
+![Products Page](https://github.com/user-attachments/assets/75f0ff68-d47c-42c9-9eff-94cb55affe0a)
